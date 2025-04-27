@@ -1,0 +1,11 @@
+{
+  "name": "simple-node-todo",
+  "version": "1.0.0",
+  "description": "A simple todo list app in Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
